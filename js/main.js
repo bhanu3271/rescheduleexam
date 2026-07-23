@@ -47,7 +47,7 @@ document.getElementById("successDetail");
 // ======================================
 
 const GOOGLE_SCRIPT_URL =
-"YOUR_GOOGLE_SCRIPT_URL_HERE";
+"https://script.google.com/macros/s/AKfycbxgvR6yTMeaCtxVAl6qs5dgjJ2Wv5zHp7lNPP9fukBEEIzmjosi8-LTsdD9MZtBhjaPxg/exec";
 
 
 
